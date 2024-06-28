@@ -1,0 +1,12 @@
+names:
+- object
+nc: 1
+roboflow:
+  license: Public Domain
+  project: skin-u5sdo
+  url: https://universe.roboflow.com/decov-cljaj/skin-u5sdo/dataset/5
+  version: 5
+  workspace: decov-cljaj
+test: skin/test/images
+train: skin/train/images
+val: skin/valid/images
